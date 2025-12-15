@@ -9,7 +9,9 @@ Siga este passo a passo exatamente como descrito para garantir que tudo funcione
 
     Entre no link do GitHub Classroom enviado pelo professor.
 
-    Clone o repositório gerado para você/sua equipe.
+    Clone o repositório gerado para você/sua equipe, clicando no link mostrado
+<img width="771" height="501" alt="Captura de tela de 2025-12-15 01-04-37" src="https://github.com/user-attachments/assets/7092e60c-7a27-497f-808a-cac83157f726" />
+
 
     Acesse a página do seu repositório no GitHub.
 
